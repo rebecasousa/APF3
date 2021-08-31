@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CrudLocacao
+comment1.params=conexao2
+comment1.target=CrudLocacao(java.sql.Connection)
+comment2.params=id_Locacao\ cpf\ placa\ data_retirada\ data_devolu\u00E7\u00E3o\ pagamento
+comment2.target=boolean\ create(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=id_Locacao
+comment3.target=boolean\ read(int)
+comment4.params=id_Locacao\ novoidLocacao
+comment4.target=boolean\ update(int,\ int)
+comment5.params=id_Locacao
+comment5.target=boolean\ delete(int)
+numComments=6
